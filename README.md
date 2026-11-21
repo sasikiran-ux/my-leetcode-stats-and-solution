@@ -8,6 +8,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
