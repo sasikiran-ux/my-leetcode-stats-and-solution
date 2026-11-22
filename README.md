@@ -8,6 +8,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0035-search-insert-position) |
 ## Hash Table
@@ -69,10 +70,15 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0035-search-insert-position) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0100-same-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
