@@ -62,6 +62,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0100-same-tree) |
+| [0743-network-delay-time](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0743-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -77,8 +78,25 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0100-same-tree) |
+| [0743-network-delay-time](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0743-network-delay-time) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0004-median-of-two-sorted-arrays) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0743-network-delay-time) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
