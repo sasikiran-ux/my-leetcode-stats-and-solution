@@ -11,6 +11,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0035-search-insert-position) |
+| [1514-path-with-maximum-probability](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/1514-path-with-maximum-probability) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,16 +88,20 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/1514-path-with-maximum-probability) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/1514-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
