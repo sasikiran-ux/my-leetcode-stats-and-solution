@@ -11,6 +11,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0035-search-insert-position) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/1514-path-with-maximum-probability) |
 ## Hash Table
 |  |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0215-kth-largest-element-in-an-array) |
 ## Graph Theory
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0743-network-delay-time](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/1514-path-with-maximum-probability) |
 ## Shortest Path
@@ -122,4 +125,12 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0543-diameter-of-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
