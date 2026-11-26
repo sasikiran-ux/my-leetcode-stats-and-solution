@@ -58,18 +58,21 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0100-same-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0100-same-tree) |
 | [0207-course-schedule](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0207-course-schedule) |
+| [0543-diameter-of-binary-tree](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0743-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0100-same-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -115,4 +118,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0207-course-schedule) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
