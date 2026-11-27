@@ -12,6 +12,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0035-search-insert-position) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0347-top-k-frequent-elements) |
 | [1514-path-with-maximum-probability](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/1514-path-with-maximum-probability) |
 ## Hash Table
@@ -19,6 +20,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
@@ -133,6 +135,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/sasikiran-ux/my-leetcode-stats-and-solution/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
